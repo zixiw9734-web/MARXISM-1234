@@ -1,0 +1,6 @@
+{
+  "name": "马克思主义基本原理背诵工具",
+  "description": "一个针对马克思主义基本原理（马原）课程的交互式背诵与复习工具，支持关键字遮盖、分类检索与章节目录导航。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
